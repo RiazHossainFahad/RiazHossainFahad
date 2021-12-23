@@ -2,7 +2,7 @@
 
 Hi! I am <a href="#">MD. Riaz Hossain Fahad</a> from 🚀 BANGLADESH, a small but potential country on the world map. I have completed my Bachelor of Science (B.Sc.) in Computer Science and Engineering (CSE) from American International University Bangladesh (AIUB), Dhaka, Bangladesh.
 
-Currently, I am working as a Laravel Web Apps Developer at ITclan BD, I have developed more than 20 web applications and still counting :D
+Currently, I am working as a Software Engineer at Informatix Technologies, I have developed more than 20 web applications and still counting :D
 
 <!-- <h2 align="center">📫 Find me here</h2>
 <p align="center">
