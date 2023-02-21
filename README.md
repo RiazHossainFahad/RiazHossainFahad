@@ -2,7 +2,7 @@
 
 Hi! I am <a href="https://www.facebook.com/mdriazhossainfahad">MD. Riaz Hossain Fahad</a> from 🚀 <a href="https://bangladesh.gov.bd/index.php">BANGLADESH</a>, a small but potential country on the world map. I have completed my Bachelor of Science (B.Sc.) in Computer Science and Engineering (CSE) from American International University Bangladesh (<a href="https://www.aiub.edu/">AIUB</a>), Dhaka, Bangladesh.
 
-Currently, I am working as a Software Engineer at <a href="http://www.informatixbd.com/">Informatix Technologies</a>, I have developed more than 20 web applications and still counting :D
+Currently, I am working as a Backend Developer at <a href="https://www.iqfulfillment.com/">IQ Fulfillment</a>, I have developed more than 20 web applications and still counting :D
 
 <h2 align="center">📫 Find me here</h2>
 <p align="center">
